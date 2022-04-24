@@ -2,7 +2,7 @@ package person;
 
 import person.Person;
 
-public class PersonHelper {
+public class git PersonHelper {
 
     public static Person getMinAge(Person[] arr) {
         Person min = null;

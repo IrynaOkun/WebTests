@@ -11,6 +11,8 @@ public class git PersonHelper {
                 min = arr[i];
             }
 
+
+
         }
 
         return min;

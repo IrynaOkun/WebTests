@@ -2,6 +2,7 @@ package person;
 
 public class Person {
 
+
     static int version;
     // constanta -> static int VERSION_APP = 1;
     // -> static int[] VERSION_APP = {1, 2, 3, 4};
